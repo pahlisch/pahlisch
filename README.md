@@ -1,23 +1,16 @@
 ### Hello there 👋
 
-<!--
-**pahlisch/pahlisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
 
 I've been working as a Prodct Owner for the past five years and I am now exploring the beautiful world of data science and AI.
 
+Working on:
+
 I'm currently working on fleshing out my github profile :) Look forward to more code in the near future.
+
+Want to have a chat ?
 
 You can reach me on linkedin if you want to have a chat https://www.linkedin.com/in/lucas-pahlisch-073465102/
 
