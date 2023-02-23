@@ -12,7 +12,7 @@ I'm currently working on fleshing out my github profile :) Look forward to more 
 
 ### Want to have a chat ?
 
-You can reach me on linkedin if you want to have a chat https://www.linkedin.com/in/lucas-pahlisch-073465102/
+You can reach me on linkedin if you want to talk https://www.linkedin.com/in/lucas-pahlisch-073465102/
 
 ### ⚡ Fun fact: 
 I tore my hamstring while doing bouldering recently ! Wait...
