@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **pahlisch/pahlisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me:
-
-Hello there, I've been working as a Prodct Owner for the past five years and I am now exploring the beautiful world of data science and AI.
+I've been working as a Prodct Owner for the past five years and I am now exploring the beautiful world of data science and AI.
 
 I'm currently working on fleshing out my github profile :) Look forward to more code in the near future.
 
