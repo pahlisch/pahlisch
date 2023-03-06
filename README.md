@@ -8,7 +8,9 @@ I've been working as a Prodct Owner for the past five years and I am now explori
 
 ### Working on:
 
-I'm currently learning flask and working on a website that display data from magic the gathering draft (see 17lands.com).
+I'm currently learning flask and working on a website that display data from magic the gathering drafts (see 17lands.com).
+You can check out this streamlit app I made as a prototype: https://mtga-draft.streamlit.app/
+As well as this repo for current progress [/mtga-draft-analytics](https://github.com/pahlisch/mtga_draft_analytics)
 
 
 ### Want to have a chat ?
