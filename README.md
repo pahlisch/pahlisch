@@ -8,7 +8,8 @@ I've been working as a Prodct Owner for the past five years and I am now explori
 
 ### Working on:
 
-I'm currently working on fleshing out my github profile :) Look forward to more code in the near future.
+I'm currently learning flask and working on a website that display data from magic the gathering draft (see 17lands.com).
+
 
 ### Want to have a chat ?
 
