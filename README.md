@@ -4,7 +4,7 @@ Welcome to my github profile !
 
 ### About me:
 
-I've been working as a Prodct Owner for the past five years and I am now exploring the beautiful world of data science and AI.
+I've been working as a Product Owner for the past five years and I am now exploring the beautiful world of software engineering, data science and AI.
 
 ### Working on:
 
